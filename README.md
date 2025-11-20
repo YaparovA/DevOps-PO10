@@ -9,6 +9,7 @@
 
 3)Упакован и установлен релиз
 <img width="1058" height="490" alt="image" src="https://github.com/user-attachments/assets/146f4fc4-0f40-41be-8eea-1fbefea69572" />
+<img width="810" height="203" alt="Screenshot from 2025-11-20 20-42-35" src="https://github.com/user-attachments/assets/d4cebaf6-6d42-4c57-8be6-bfa1e4cefdfa" />
 
 
 ЧАСТЬ 2
